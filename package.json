@@ -1,0 +1,51 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^12.0.3",
+    "@react-native-community/masked-view": "0.1.10",
+    "@react-native-picker/picker": "1.9.2",
+    "@react-navigation/material-bottom-tabs": "^5.3.14",
+    "@react-navigation/native": "^5.9.2",
+    "@react-navigation/stack": "^5.14.2",
+    "expo": "^40.0.0",
+    "expo-app-loading": "^1.0.1",
+    "core-js": "^3.8.3",
+    "expo-checkbox": "~1.0.0",
+    "expo-image-picker": "~9.2.0",
+    "expo-linear-gradient": "~8.4.0",
+    "expo-location": "~10.0.0",
+    "expo-notifications": "~0.8.2",
+    "expo-permissions": "~10.0.0",
+    "firebase":"7.9.0",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-native": "0.63.4",
+    "react-native-animatable": "^1.3.3",
+    "react-native-countdown-component": "^2.7.1",
+    "react-native-elements": "^3.1.0",
+    "react-native-gesture-handler": "~1.8.0",
+    "react-native-gifted-chat": "^0.16.3",
+    "react-native-keyboard-aware-scrollview": "^2.1.0",
+    "react-native-maps": "0.27.1",
+    "react-native-paper": "^4.7.2",
+    "react-native-popup-dialog": "^0.18.3",
+    "react-native-reanimated": "~1.13.0",
+    "react-native-responsive-screen": "^1.4.2",
+    "react-native-safe-area-context": "3.1.9",
+    "react-native-screens": "~2.15.2",
+    "react-native-web": "~0.13.12",
+    "sharp-cli": "^1.14.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.12.10",
+    "@babel/core": "~7.9.0"
+  },
+  "private": true
+}
